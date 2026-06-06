@@ -1,0 +1,4 @@
+ 50293- Total images
+ 31,378 clean, unique images
+Zero corrupt or invalid files
+18,915 duplicates removed
